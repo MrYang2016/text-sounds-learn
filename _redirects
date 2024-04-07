@@ -1,1 +1,1 @@
-/test/*  /test?type=:splat  301
+/test/:type /test?type=:type 301
